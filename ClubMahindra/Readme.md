@@ -1,3 +1,7 @@
-This scored 18th position on the public leaderboard and the private leaderboard. Score 0.964 on the private leaderboard and 0.957 on the public leader board.
+This scored 18th position on the public leaderboard and the private leaderboard. Score 96.44 on the private leaderboard and 95.57 on the public leader board.
 
-Should have added holiday feature to the model
+
+Features I should have added :
+
+1. Whether the vacation was during a holiday? - to get idea of peak and non-peak season
+2. Number of days of vacation, taken in that year?
